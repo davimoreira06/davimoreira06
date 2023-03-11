@@ -8,10 +8,9 @@
   <img align="center" alt="Davi-HTML" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Davi-CSS" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Davi-Git" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Davi-Js" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /><br>
 </div>
 
-<h4>Estudando:</h4>
-  <img align="center" alt="Davi-Js" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /><br>
 <div>
   <a href="https://github.com/davimoreira06">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimoreira06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
