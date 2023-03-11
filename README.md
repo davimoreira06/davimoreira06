@@ -8,7 +8,7 @@
   <img align="center" alt="Davi-HTML" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Davi-CSS" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Davi-Git" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Davi-Js" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /><br>     <br>
+  <img align="center" alt="Davi-Js" height="28" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /><br>   
 </div>
 
 ##
