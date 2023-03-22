@@ -1,4 +1,4 @@
-### Olá! Eu sou o Davi Moreira :relaxed:
+### Olá! Eu sou o Davi Moreira 😄
 <p>Sou um desenvolvedor front-end em progresso constante!</p>
 
 ##
